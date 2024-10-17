@@ -50,4 +50,22 @@ my_linked_list.append(2)
 my_linked_list.append(3)
 my_linked_list.pop()
 
+"""
+Before pop:
+  [ Node1: 1 | nextptr -> Node2 ] --> [ Node2: 2 | nextptr -> Node3 ] --> [ Node3: 3 | nextptr -> None ]
+     ^                                ^                                  ^
+     |                                |                                  |
+   head                             Node2                             tail (currently pointing to Node3)
+
+After pop:
+  [ Node1: 1 | nextptr -> Node2 ] --> [ Node2: 2 | nextptr -> None ]
+     ^                                ^
+     |                                |
+   head                             tail (now pointing to Node2)
+  length = 2
+
+  - Node3 (with value 3) is returned by the pop() function.
+  - If the list becomes empty (length = 0), both `head` and `tail` are set to `None`.
+"""
+
 my_linked_list.print_list()
