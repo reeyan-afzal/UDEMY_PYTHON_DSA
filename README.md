@@ -1,10 +1,10 @@
 ## UDEMY_PYTHON_DSA
-
 #### [Python Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-python)
-
 **Course Author: [Scott Barrett](https://www.udemy.com/user/scott-barrett-16/)**
 
-After completing the [UDEMY_DEEP_DIVE](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE), it's time to **DEEP DIVE** into the world of Data Structures & Algorithms. I've worked through 100+ coding exercises, each with detailed explanations and animated examples that make even the most complex concepts easy to grasp, all thanks to the instructor’s exceptional guidance. Tackling challenging LeetCode problems has sharpened my problem-solving abilities and deepened my understanding of time and space complexities. These new skills have not only boosted my confidence for technical interviews but have also taken my development expertise to the next level, enabling me to create more efficient and scalable real-world solutions.
+After completing the [NAVTTC_PCAP](https://github.com/reeyan-afzal/NAVTTC_PCAP) main course, it's time to **DEEP DIVE** into the world of Data Structures & Algorithms. I've worked through 100+ coding exercises, each with detailed explanations and animated examples that make even the most complex concepts easy to grasp, all thanks to the instructor’s exceptional guidance. Tackling challenging LeetCode problems has sharpened my problem-solving abilities and deepened my understanding of time and space complexities. These new skills have not only boosted my confidence for technical interviews but have also taken my development expertise to the next level, enabling me to create more efficient and scalable real-world solutions.
+
+**LeetCode: [reeyan-afzal](https://leetcode.com/u/reeyan-afzal/)**
 
 ___
 
